@@ -68,10 +68,16 @@ Open it using Tableau Desktop or a compatible Tableau application.
 Navigate between the dashboards and interact with the available filters.
 
 Project Files
+
 Zomato_Market_Analysis.twb — Tableau packaged workbook
+
 Dashboard-1-Market-Overview.png — Dashboard preview images
-Dashboard-1-Market-Overview.png — Dashboard preview images
-data/ — Cleaned dataset, if permitted to redistribute
+
+
+Dashboard-2-Rating insight.png — Dashboard preview images
+
+ — Cleaned dataset, if permitted to redistribute
+
 README.md — Project documentation
 Author
 Computer Science Student | Aspiring Data Analyst
