@@ -2,6 +2,7 @@
 Restaurant market analysis using Excel and Tableau
 Zomato Restaurant Market Analysis
 Project Overview
+
 This project explores the restaurant landscape in Bangalore using Zomato restaurant listing and rating data. The goal is to understand restaurant distribution, customer ratings, voting patterns, cuisine listings, and online ordering availability through interactive Tableau dashboards.
 
 Business Questions
@@ -51,18 +52,25 @@ BTM has the highest number of restaurant records among the locations analyzed, w
 
 Limitations
 The dataset describes restaurant listings, ratings, votes, and service attributes; it does not represent actual sales or transaction records.
+
 Online ordering availability does not indicate the number of orders completed.
 
 Votes and ratings reflect the dataset's recorded values and should not be interpreted as proof of customer satisfaction for every restaurant.
+
 Findings depend on the dataset's coverage, completeness, and collection period.
+
 How to Open the Project
+
 Download the Tableau packaged workbook Zomato_Market_Analysis.twb from this repository.
+
 Open it using Tableau Desktop or a compatible Tableau application.
+
 Navigate between the dashboards and interact with the available filters.
 
 Project Files
 Zomato_Market_Analysis.twb — Tableau packaged workbook
-screenshots/ — Dashboard preview images
+Dashboard-1-Market-Overview.png — Dashboard preview images
+Dashboard-1-Market-Overview.png — Dashboard preview images
 data/ — Cleaned dataset, if permitted to redistribute
 README.md — Project documentation
 Author
